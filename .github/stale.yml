@@ -1,0 +1,9 @@
+daysUntilStale: 2
+daysUntilClose: 1
+exemptLabels: []
+staleLabel: stale
+markComment: >
+  The issues in this repository are considered obsolete. If this issue is still relevant, please comment that 
+  it should be moved to the correct repository. This can also be done by opening a new ticket 
+  in [vaadin/framework](https://github.com/vaadin/framework).
+
